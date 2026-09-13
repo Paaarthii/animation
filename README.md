@@ -152,11 +152,11 @@ Registeration Number : 212225040294
 
 ## OUTPUT
 Blink
-<img width="1920" height="1080" alt="Screenshot 2025-10-28 143935" src="https://github.com/user-attachments/assets/eb8dde40-2f2c-4b9e-9e43-2a344e68c432" />
+<img width="1920" height="1017" alt="506882801-eb8dde40-2f2c-4b9e-9e43-2a344e68c432" src="https://github.com/user-attachments/assets/234ac8a0-3bd1-4b46-a203-a1a5da1d2cf0" />
 Fade
-<img width="1920" height="1080" alt="Screenshot 2025-10-28 143947" src="https://github.com/user-attachments/assets/eba5ec3a-755b-48bf-af1e-06bdbec20401" />
+<img width="1920" height="1017" alt="506882906-eba5ec3a-755b-48bf-af1e-06bdbec20401" src="https://github.com/user-attachments/assets/0f8b50c5-b7b9-4f3b-b654-cc6fa1d448b6" />
 Zoom
-<img width="1920" height="1080" alt="Screenshot 2025-10-28 144028" src="https://github.com/user-attachments/assets/f4c94da2-265b-40ee-83a4-4bcd65fa6cda" />
+<img width="1920" height="1015" alt="506883021-f4c94da2-265b-40ee-83a4-4bcd65fa6cda" src="https://github.com/user-attachments/assets/b64d9179-d4f8-4fd4-9e67-8e739e9b98d4" />
 Rotate
 <img width="1920" height="1080" alt="Screenshot 2025-10-28 144121" src="https://github.com/user-attachments/assets/73abd1f1-3168-49fc-9509-6b6df3129e28" />
 Move
