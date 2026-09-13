@@ -158,11 +158,11 @@ Fade
 Zoom
 <img width="1920" height="1015" alt="506883021-f4c94da2-265b-40ee-83a4-4bcd65fa6cda" src="https://github.com/user-attachments/assets/b64d9179-d4f8-4fd4-9e67-8e739e9b98d4" />
 Rotate
-<img width="1920" height="1080" alt="Screenshot 2025-10-28 144121" src="https://github.com/user-attachments/assets/73abd1f1-3168-49fc-9509-6b6df3129e28" />
+<img width="1920" height="1013" alt="506883088-73abd1f1-3168-49fc-9509-6b6df3129e28" src="https://github.com/user-attachments/assets/b3a90482-f29e-42e9-acb6-697f124b2aba" />
 Move
 ![WhatsApp Image 2025-10-28 at 14 43 49_60836d40](https://github.com/user-attachments/assets/54db1fcf-8fb9-4001-a1c8-4be80ae7f40f)
 Stop Animation
-<img width="1920" height="1080" alt="Screenshot 2025-10-28 143935" src="https://github.com/user-attachments/assets/84065cd9-2637-4c62-9a73-1da3c67659fb" />
+<img width="1920" height="1019" alt="506883318-84065cd9-2637-4c62-9a73-1da3c67659fb" src="https://github.com/user-attachments/assets/fe8f7a75-43f0-420b-8be0-4857dec99e22" />
 
 ## RESULT
 Thus,the experiment Implementation of Animation application using android studio executed successfully.
